@@ -1,0 +1,7 @@
+gym==0.23.1
+gym_super_mario_bros==7.4.0
+keras==2.10.0
+nes_py==8.2.1
+numpy==1.22.0
+opencv_python==4.9.0.80
+tensorflow==2.10.0
